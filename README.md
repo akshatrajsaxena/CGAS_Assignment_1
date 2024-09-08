@@ -58,7 +58,7 @@ pip install matplotlib
 
 ## LICENSE
 
-[MIT License]()
+[MIT License](https://github.com/akshatrajsaxena/CGAS_Assignment_1/blob/main/LICENSE)
 
 ## Contact
 
